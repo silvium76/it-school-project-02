@@ -1,0 +1,6 @@
+data/
+.ipynb_checkpoints/
+__pycache__/
+# the original, unsolved course notebooks (kept locally only)
+CNNs_proiect.ipynb
+Forecasting_proiect.ipynb
